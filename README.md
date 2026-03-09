@@ -81,6 +81,7 @@ RegisterNumber:  25012532
 
 ## Output:
 <img width="920" height="71" alt="image" src="https://github.com/user-attachments/assets/f1a1c301-50cd-48f2-9ad3-c24e9aac977f" />
+<img width="699" height="565" alt="image" src="https://github.com/user-attachments/assets/41355c11-c9c8-4f67-8463-d008afb63607" />
 
 
 ## Result:
